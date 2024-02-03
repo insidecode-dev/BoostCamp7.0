@@ -1,0 +1,14 @@
+C:\Users\Admino\OneDrive\Desktop\RecoverTopics\bin\Debug\net8.0\RecoverTopics.exe
+C:\Users\Admino\OneDrive\Desktop\RecoverTopics\bin\Debug\net8.0\RecoverTopics.deps.json
+C:\Users\Admino\OneDrive\Desktop\RecoverTopics\bin\Debug\net8.0\RecoverTopics.runtimeconfig.json
+C:\Users\Admino\OneDrive\Desktop\RecoverTopics\bin\Debug\net8.0\RecoverTopics.dll
+C:\Users\Admino\OneDrive\Desktop\RecoverTopics\bin\Debug\net8.0\RecoverTopics.pdb
+C:\Users\Admino\OneDrive\Desktop\RecoverTopics\obj\Debug\net8.0\RecoverTopics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admino\OneDrive\Desktop\RecoverTopics\obj\Debug\net8.0\RecoverTopics.AssemblyInfoInputs.cache
+C:\Users\Admino\OneDrive\Desktop\RecoverTopics\obj\Debug\net8.0\RecoverTopics.AssemblyInfo.cs
+C:\Users\Admino\OneDrive\Desktop\RecoverTopics\obj\Debug\net8.0\RecoverTopics.csproj.CoreCompileInputs.cache
+C:\Users\Admino\OneDrive\Desktop\RecoverTopics\obj\Debug\net8.0\RecoverTopics.dll
+C:\Users\Admino\OneDrive\Desktop\RecoverTopics\obj\Debug\net8.0\refint\RecoverTopics.dll
+C:\Users\Admino\OneDrive\Desktop\RecoverTopics\obj\Debug\net8.0\RecoverTopics.pdb
+C:\Users\Admino\OneDrive\Desktop\RecoverTopics\obj\Debug\net8.0\RecoverTopics.genruntimeconfig.cache
+C:\Users\Admino\OneDrive\Desktop\RecoverTopics\obj\Debug\net8.0\ref\RecoverTopics.dll
