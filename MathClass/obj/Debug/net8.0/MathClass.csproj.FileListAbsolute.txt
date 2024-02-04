@@ -1,0 +1,12 @@
+C:\Users\Admino\OneDrive\Desktop\BoostCamp7.0\MathClass\bin\Debug\net8.0\MathClass.deps.json
+C:\Users\Admino\OneDrive\Desktop\BoostCamp7.0\MathClass\bin\Debug\net8.0\MathClass.dll
+C:\Users\Admino\OneDrive\Desktop\BoostCamp7.0\MathClass\bin\Debug\net8.0\MathClass.pdb
+C:\Users\Admino\OneDrive\Desktop\BoostCamp7.0\MathClass\obj\Debug\net8.0\MathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admino\OneDrive\Desktop\BoostCamp7.0\MathClass\obj\Debug\net8.0\MathClass.AssemblyInfoInputs.cache
+C:\Users\Admino\OneDrive\Desktop\BoostCamp7.0\MathClass\obj\Debug\net8.0\MathClass.AssemblyInfo.cs
+C:\Users\Admino\OneDrive\Desktop\BoostCamp7.0\MathClass\obj\Debug\net8.0\MathClass.csproj.CoreCompileInputs.cache
+C:\Users\Admino\OneDrive\Desktop\BoostCamp7.0\MathClass\obj\Debug\net8.0\MathClass.sourcelink.json
+C:\Users\Admino\OneDrive\Desktop\BoostCamp7.0\MathClass\obj\Debug\net8.0\MathClass.dll
+C:\Users\Admino\OneDrive\Desktop\BoostCamp7.0\MathClass\obj\Debug\net8.0\refint\MathClass.dll
+C:\Users\Admino\OneDrive\Desktop\BoostCamp7.0\MathClass\obj\Debug\net8.0\MathClass.pdb
+C:\Users\Admino\OneDrive\Desktop\BoostCamp7.0\MathClass\obj\Debug\net8.0\ref\MathClass.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecoverTopics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89801d2d42433736674c569c242a125b450ec67d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecoverTopics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecoverTopics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
