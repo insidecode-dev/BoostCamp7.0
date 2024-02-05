@@ -1,0 +1,14 @@
+C:\Users\Admino\OneDrive\Desktop\BoostCampOOP\bin\Debug\net8.0\BoostCampOOP.exe
+C:\Users\Admino\OneDrive\Desktop\BoostCampOOP\bin\Debug\net8.0\BoostCampOOP.deps.json
+C:\Users\Admino\OneDrive\Desktop\BoostCampOOP\bin\Debug\net8.0\BoostCampOOP.runtimeconfig.json
+C:\Users\Admino\OneDrive\Desktop\BoostCampOOP\bin\Debug\net8.0\BoostCampOOP.dll
+C:\Users\Admino\OneDrive\Desktop\BoostCampOOP\bin\Debug\net8.0\BoostCampOOP.pdb
+C:\Users\Admino\OneDrive\Desktop\BoostCampOOP\obj\Debug\net8.0\BoostCampOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admino\OneDrive\Desktop\BoostCampOOP\obj\Debug\net8.0\BoostCampOOP.AssemblyInfoInputs.cache
+C:\Users\Admino\OneDrive\Desktop\BoostCampOOP\obj\Debug\net8.0\BoostCampOOP.AssemblyInfo.cs
+C:\Users\Admino\OneDrive\Desktop\BoostCampOOP\obj\Debug\net8.0\BoostCampOOP.csproj.CoreCompileInputs.cache
+C:\Users\Admino\OneDrive\Desktop\BoostCampOOP\obj\Debug\net8.0\BoostCampOOP.dll
+C:\Users\Admino\OneDrive\Desktop\BoostCampOOP\obj\Debug\net8.0\refint\BoostCampOOP.dll
+C:\Users\Admino\OneDrive\Desktop\BoostCampOOP\obj\Debug\net8.0\BoostCampOOP.pdb
+C:\Users\Admino\OneDrive\Desktop\BoostCampOOP\obj\Debug\net8.0\BoostCampOOP.genruntimeconfig.cache
+C:\Users\Admino\OneDrive\Desktop\BoostCampOOP\obj\Debug\net8.0\ref\BoostCampOOP.dll
