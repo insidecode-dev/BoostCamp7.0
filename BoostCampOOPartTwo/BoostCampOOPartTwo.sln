@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoostCampOOPartTwo", "BoostCampOOPartTwo.csproj", "{A1230EC4-980C-473F-BAA8-953104AE49FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1230EC4-980C-473F-BAA8-953104AE49FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1230EC4-980C-473F-BAA8-953104AE49FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1230EC4-980C-473F-BAA8-953104AE49FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1230EC4-980C-473F-BAA8-953104AE49FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3880DEA1-C206-492E-9DF4-2FE6BEB7A5B3}
+	EndGlobalSection
+EndGlobal

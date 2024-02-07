@@ -8,6 +8,8 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        // OOP - part 1
+
         // 1
         // access modifiers
         // default access modifier of class members => private
@@ -197,14 +199,14 @@ internal class Program
 
         //if (person.Role == Role.Middle)
         //    TestClass.Advanced();            
-        
+
 
         //if (person1.Role == Role.Junior)
         //    TestClass.Intermediate();
         #endregion
         //string.Ca
         //StringBuilder stringBuilder = new StringBuilder();  
-        
+
     }
 }
 //public record Car (string Name, string Descriotion);
