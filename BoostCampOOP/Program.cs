@@ -4,7 +4,7 @@ using System.Net.Http.Headers;
 using System.Runtime.CompilerServices;
 using System.Text;
 
-internal class Program
+internal class Program  
 {
     private static void Main(string[] args)
     {
