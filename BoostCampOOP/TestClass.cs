@@ -18,5 +18,17 @@ namespace BoostCampOOP
         //{
         //    Console.WriteLine(_person.name + " " + _person.surname);
         //}
+        
+        public static void Advanced()
+        {
+            Console.WriteLine("Give tasks");
+            Console.WriteLine("Take tasks");
+        }
+
+        public static void Intermediate()
+        {
+            Console.WriteLine("Take tasks");
+        }
+
     }
 }

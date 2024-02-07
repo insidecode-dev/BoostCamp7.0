@@ -8,15 +8,19 @@ namespace BoostCampOOP
 {
     internal class Person
     {
-        static Person()
+        public readonly string name;
+        public readonly string surname;
+        public Role Role { get; set; }
+        
+        public Person(string _name, string _surname, Role role)
         {
-            Console.WriteLine("static");     
-        }
-        public Person()
-        {
-            Console.WriteLine("normal");
+            this.name = _name;            
+            surname = _surname;
+            Role = role;
         }
 
+
+        
         //public Person(string _name, string _surname, int _age)
         //{
         //    name = _name;
@@ -24,9 +28,8 @@ namespace BoostCampOOP
         //    age = _age;
         //}
 
-        public static string name= "value";// private
-        public  string surname ;
-        public int age;
+        //public static string name= "value";// private
+        
         
 
 

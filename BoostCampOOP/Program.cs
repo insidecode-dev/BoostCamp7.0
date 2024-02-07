@@ -1,5 +1,8 @@
 ﻿using BoostCampOOP;
+using System.ComponentModel;
+using System.Net.Http.Headers;
 using System.Runtime.CompilerServices;
+using System.Text;
 
 internal class Program
 {
@@ -118,38 +121,90 @@ internal class Program
         // Constructors | Default Constructor
         // Parameterized Constructor        
         #region constructor
-        
-        
-        
+
+
+
         #endregion
 
         // 5 
         // use case of static keyword
         #region static class and constructor
-        
-        Person person = new Person();
-        person.surname = "Test";    
-        Console.WriteLine(person.surname+ " "+Person.name);
-        Person person2 = new Person();
-        person2.surname = "Test1";
-        Console.WriteLine(person2.surname + " "+Person.name); 
-        Person person3 = new Person();
-        person3.surname = "Test3";        
-        Console.WriteLine(person3.surname +" "+ Person.name);
+
+        //Person person = new Person();
+        //person.surname = "Test";
+        //Console.WriteLine(person.surname + " " + Person.name);
+        //Person person2 = new Person();
+        //person2.surname = "Test1";
+        //Console.WriteLine(person2.surname + " " + Person.name);
+        //Person person3 = new Person();
+        //person3.surname = "Test3";
+        //Console.WriteLine(person3.surname + " " + Person.name);
+
+
 
 
         #endregion
 
         // 6
         // const and readonly keywords
-        #region constr and readonly
+        #region const and readonly
 
+        //const int num1 = 4; // you should initialize its value when declaring
+        //Console.WriteLine(num1);    
+
+        //Person person = new Person("Name", "Surname", 29);
+
+        //Console.WriteLine(person.name);
+        //person = new Person("Turqut", "Mehdiyev", 21);
+        //Console.WriteLine(person.name);
         #endregion
 
         // 7
         // why extension methods
         #region extension methods
-
+        //string str = "Hello World";
+        //Console.WriteLine(str.IsLowerThanFour());
+        //int num = 4;
+        //Console.WriteLine(StringFeature.IsHigherThanThis(num, 7)); 
         #endregion
+
+        // 8
+        // records 
+        // diffrence between record and class
+        // positional properties
+        #region records
+        //Car car = new Car("TestAd", "TestSoyad");
+
+        //Car car = new Car(); 
+        //car.Name = "Test1";  
+        //car.Description = "Fast";   
+        //Car car2 = new Car();
+        //car2.Name = "Test";
+        //car2.Description = "Fast";
+        //Console.WriteLine(car == car2);
+
+        //Person person = new Person("Name");
+        //Person person1 = new Person("Name");
+        //Console.WriteLine(person==person1);
+        #endregion
+
+        // 9 
+        // why enums
+        // integral values of enum
+        #region enums
+        //Person person = new Person("Turqut", "Mehdiyev", Role.Middle);
+        //Person person1 = new Person("Zakir", "Gözəlov", Role.Junior);
+
+        //if (person.Role == Role.Middle)
+        //    TestClass.Advanced();            
+        
+
+        //if (person1.Role == Role.Junior)
+        //    TestClass.Intermediate();
+        #endregion
+        //string.Ca
+        //StringBuilder stringBuilder = new StringBuilder();  
+        
     }
 }
+//public record Car (string Name, string Descriotion);

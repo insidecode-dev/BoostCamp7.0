@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoostCampOOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e0580136f0e48a72a28163bf4a7144c6e6a15e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoostCampOOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoostCampOOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
