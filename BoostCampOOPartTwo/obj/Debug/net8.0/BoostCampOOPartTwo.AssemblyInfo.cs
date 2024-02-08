@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoostCampOOPartTwo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d1d31bf9cd57a3caf26ab4f4f706a1acfeaddcf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2c8d5766ef9b67ac43473e26a343d13ee123df3")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoostCampOOPartTwo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoostCampOOPartTwo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

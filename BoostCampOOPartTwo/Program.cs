@@ -95,10 +95,34 @@ internal class Program
         // abstraction => asbtract classes, asbtract methods
         // polymorphism => overloading methods and overriding methods, virtual methods
 
+
+        // constructor and field
+        #region interface
+        //ICard card = new Person();
+        //IPerson person = new Person();
+        //IPerson person1 = new WorkerClass();
+        //person.ShowID();
+        //person1.ShowID();
+        
+
+        #endregion
+
+        // class as return type, parameter and property
+        #region return class type
+        //Methods methods = new Methods();        
+        //Person person = methods.ReturnPerson("name1", "surname1", 29); // creates a new person object with its data        
+        //methods.ShowPersonData(person); // takes input as Person type then prints its properties 
+
+
+
+        
+        #endregion
     }
 }
 
+// interface vs abstract class 
 
+// 
 
 // diamond problem => one class cannot derive from multiple classes .
 // In this case, if base classes have methods with same signature,

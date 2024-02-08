@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BoostCampOOPartTwo
 {
-    public abstract class Person // inherited class or base class or parent class
+    public class Person:IPerson, ICard // inherited class or base class or parent class
     {
       
         
@@ -33,7 +33,7 @@ namespace BoostCampOOPartTwo
         public string Surname { get; set; }
         public int Age { get; set; }
 
-        public abstract void PrintName();
+        
         // does not have body
 
         public void WriteSomething()
@@ -45,7 +45,35 @@ namespace BoostCampOOPartTwo
         {
             return 800;
         }
-        
+
+        public void ShowCard()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void ShowID()
+        {
+            Console.WriteLine("this is ID of person");
+        }
+
+        public void ShowWorkPlace()
+        {
+            throw new NotImplementedException();
+        }
+
+
+        // these nelong to card interface
+        public void PayByCard()
+        {
+            Console.WriteLine("paid by card");
+        }
+
+        public void ShowBalance()
+        {
+            Console.WriteLine("Your balance is : ${0}", 24);
+        }
+
+       
     }
 
     public class Doctor:Person // derived class or child classs
@@ -60,7 +88,7 @@ namespace BoostCampOOPartTwo
             return $"{Name} {Surname} {Age}";
         }
 
-        public override void PrintName()
+        public  void PrintName()
         {
             Console.WriteLine($"Doctor data : {Name}{Surname}");
         }
@@ -81,10 +109,10 @@ namespace BoostCampOOPartTwo
       
         public string ProgLang { get; set; }
 
-        public override void PrintName()
-        {
-            Console.WriteLine($"Developer data : {ProgLang}");
-        }
+        //public override void PrintName()
+        //{
+        //    Console.WriteLine($"Developer data : {ProgLang}");
+        //}
 
         public override int CalculateSalary()
         {
@@ -97,7 +125,7 @@ namespace BoostCampOOPartTwo
         
         public string Subject { get; set; }
 
-        public override void PrintName()
+        public void PrintName()
         {
             Console.WriteLine($"Teacher data : {Subject}");
         }
